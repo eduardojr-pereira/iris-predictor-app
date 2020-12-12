@@ -17,7 +17,7 @@ cd \iris-predictor\app
 set FLASK_APP=app.py
 flask run
 ```
-Acesse o endereço [localhost] (http://localhost:5000) para executar a aplicação.
+Acesse o endereço [localhost](http://localhost:5000) para executar a aplicação.
 
 ## Contribuição
 Contribuições serão bem-vindas via pull requests. Tenha certeza que os testes foram feitos.
