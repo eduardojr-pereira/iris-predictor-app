@@ -13,7 +13,7 @@ pip install -U -r requirements.txt
 ## Execução
 
 ```bash
-cd\iris-predictor\app
+cd \iris-predictor\app
 set FLASK_APP=app.py
 flask run
 ```
