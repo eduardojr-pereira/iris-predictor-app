@@ -1,4 +1,4 @@
-[Profiling Report - Iris Dataset](D:\DataScience\WF\Iris\notebooks\Iris_report)
+[Profiling Report - Iris Dataset](file:///D:/DataScience/WF/Iris/notebooks/iris_report.html)
 # Iris Predictor 
 
 Uma aplicação baseada em aprendizado de máquina para predição de espécies da Iris.
